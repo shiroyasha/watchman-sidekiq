@@ -1,5 +1,7 @@
 # Watchman Sidekiq
 
+[![Build Status](https://semaphoreci.com/api/v1/shiroyasha/watchman-sidekiq/branches/master/badge.svg)](https://semaphoreci.com/shiroyasha/watchman-sidekiq)
+
 [Watchman](https://github.com/renderedtext/watchman) extensions for sidekiq.
 
 Watchman Sidekiq collects benchmarks for all of your workers.
