@@ -1,5 +1,6 @@
 # Watchman Sidekiq
 
+[![Gem Version](https://badge.fury.io/rb/watchman-sidekiq.svg)](https://badge.fury.io/rb/watchman-sidekiq)
 [![Build Status](https://semaphoreci.com/api/v1/shiroyasha/watchman-sidekiq/branches/master/badge.svg)](https://semaphoreci.com/shiroyasha/watchman-sidekiq)
 
 [Watchman](https://github.com/renderedtext/watchman) extensions for sidekiq.
