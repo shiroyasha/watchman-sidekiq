@@ -1,7 +1,9 @@
 require "watchman/sidekiq/version"
+require "watchman/sidekiq/middleware"
 
-module Watchman
+require "watchman"
+
+class Watchman
   module Sidekiq
-    # Your code goes here...
   end
 end
